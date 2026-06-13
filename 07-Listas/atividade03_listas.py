@@ -1,5 +1,5 @@
 # Autor: Lailtom Gomes
-# Projeto: Listas em Python
+# Projeto: Listas em Python 3
 
 penta = ['Brasil']
 tetra = ['Brasil', 'Alemanha', 'Itália']

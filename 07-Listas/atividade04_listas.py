@@ -1,5 +1,5 @@
 # Autor: Lailton Gomes
-# Projeto: Listas em Python
+# Projeto: Listas em Python 4
 
 campeoes = ['Brasil', 'Alemanha', 'Itália', 'Argentina']
 
